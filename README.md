@@ -1,1 +1,1 @@
-# number-game
+# PSHS-MC Grade 10 Number Game
